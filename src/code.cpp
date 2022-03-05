@@ -7,10 +7,8 @@ namespace assignment {
 
   // Task 1
   int squared_diff(int left, int right) {
-
-    // Write your code here ...
-
-    return 0;
+    int diff = left - right;
+    return diff * diff;
   }
 
   // Task 2
