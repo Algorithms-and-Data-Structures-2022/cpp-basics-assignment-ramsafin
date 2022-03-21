@@ -1,4 +1,4 @@
-# C++ Basics
+# Assignment. C++ Basics
 
 [![Build Status](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
 ![Points bar](../../blob/badges/.github/badges/points-bar.svg)
